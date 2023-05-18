@@ -1,4 +1,4 @@
-###  Hi there 👋, I am Chandramouli Guna
+# Hi there 👋, I am Chandramouli Guna
 
 <!--
 **chandramouli224/Chandramouli-Guna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
